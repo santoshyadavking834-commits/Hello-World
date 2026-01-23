@@ -7,16 +7,16 @@
     <h1>Vote for your favorite color</h1>
     <form>
       <p>
-        <input type="radio" name="color" value="red">
-        <label for="red">Red</label>
+        <input type="radio" name="color" value="sai">
+        <label for="red">sai</label>
       </p>
       <p>
-        <input type="radio" name="color" value="blue">
-        <label for="blue">Blue</label>
+        <input type="radio" name="color" value="santhosh">
+        <label for="blue">santhosh</label>
       </p>
       <p>
-        <input type="radio" name="color" value="green">
-        <label for="green">Green</label>
+        <input type="radio" name="color" value="singh">
+        <label for="green">singh</label>
       </p>
       <input type="submit" value="Submit Vote">
     </form>
