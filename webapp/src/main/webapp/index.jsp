@@ -12,7 +12,7 @@
       </p>
       <p>
         <input type="radio" name="color" value="santhosh">
-        <label for="blue">santhosh</label>
+        <label for="blue">bunty</label>
       </p>
       <p>
         <input type="radio" name="color" value="singh">
