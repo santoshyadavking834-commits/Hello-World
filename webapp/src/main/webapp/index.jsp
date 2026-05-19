@@ -8,7 +8,7 @@
     <form>
       <p>
         <input type="radio" name="color" value="sai">
-        <label for="red">sai</label>
+        <label for="red">sai fahh</label>
       </p>
       <p>
         <input type="radio" name="color" value="santhosh">
